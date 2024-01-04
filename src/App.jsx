@@ -31,6 +31,7 @@ function App() {
       </Canvas>
       <Overlay />
       </section>
+      
     </div>
   );
 }
